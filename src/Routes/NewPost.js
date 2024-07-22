@@ -19,7 +19,7 @@ const NewPost = () => {
         <Link  to="/"  type='button'>
           Cancle
         </Link>
-        <button>
+        <button type='submit'>
           Submit
         </button>
       </p>
